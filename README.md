@@ -16,3 +16,5 @@
 [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization)
 
 [Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
+
+[Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml)
