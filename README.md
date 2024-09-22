@@ -8,3 +8,5 @@
 [Merge Large Language Models with mergekit, by Maxime Labonne](https://huggingface.co/blog/mlabonne/merge-models)
 
 [Uncensor any LLM with abliteration, by Maxime Labonne](https://huggingface.co/blog/mlabonne/abliteration)
+
+https://huggingface.co/blog/Pclanglais/specialized-pre-training
