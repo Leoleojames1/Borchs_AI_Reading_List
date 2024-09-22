@@ -14,3 +14,5 @@
 [The 5 Most Under-Rated Tools on Hugging Face](https://huggingface.co/blog/unsung-heroes)
 
 [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization)
+
+[Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
