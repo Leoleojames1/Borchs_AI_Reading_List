@@ -9,4 +9,4 @@
 
 [Uncensor any LLM with abliteration, by Maxime Labonne](https://huggingface.co/blog/mlabonne/abliteration)
 
-https://huggingface.co/blog/Pclanglais/specialized-pre-training
+[The case for specialized pre-training: ultra-fast foundation models for dedicated tasks]https://huggingface.co/blog/Pclanglais/specialized-pre-training
