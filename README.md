@@ -20,3 +20,5 @@
 [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml)
 
 [Docmatix - A huge dataset for document Visual Question Answering](https://huggingface.co/blog/docmatix)
+
+[TGI Multi-LoRA: Deploy Once, Serve 30 models](https://huggingface.co/blog/multi-lora-serving)
