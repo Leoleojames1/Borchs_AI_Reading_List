@@ -48,7 +48,7 @@ Augmentation occurs when an ai assistant takes the provided source data, human o
 Dataset Digestion involves taking/scraping source data from an opensource database such as arxiv, and tasking the agent with constructing the ground truth dataset from the scraped data. This digested data can then be augmented.
 Synthetic Dataset Augmented Expansion is the process of expanding existing ground truth data by x10, x100, x1000, etc. via paraphrases and also providing instruction prompt examples to truly seed the dataset and ensure the ai is modulated the provided data, and not pulling from its own knowledge base.
 
-## [The Rise of Agentic Data Genation, by Maxime Labonne](https://huggingface.co/blog/mlabonne/agentic-datagen)
+## [The Rise of Agentic Data Generation, by Maxime Labonne](https://huggingface.co/blog/mlabonne/agentic-datagen)
 
 Explore how innovative frameworks like AgentInstruct and Arena Learning are transforming the creation of high-quality instruction datasets for LLMs. This article delves into these cutting-edge methods, their unique approaches, and the potential of combining them to advance AI training.
 
