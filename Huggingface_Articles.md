@@ -35,3 +35,6 @@ Supercharge your AI projects with these hidden gems on Hugging Face! Learn how t
 
 ## [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft)
 
+## [AI Apps in a Flash with Gradio's Reload Mode](https://huggingface.co/blog/gradio-reload)
+
+## [Total noob’s intro to Hugging Face Transformers](https://huggingface.co/blog/noob_intro_transformers)
