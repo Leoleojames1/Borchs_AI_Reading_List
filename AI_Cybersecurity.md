@@ -26,3 +26,7 @@ Acknowledgment that current security tools provide only partial coverage for AI-
 Call for increased developer awareness and better security practices as AI becomes more integrated into business processes and software development.
 
 The presentation concludes by highlighting that the cybersecurity industry is still grappling with how to effectively address these new AI-related security challenges, emphasizing the importance of staying informed and proactive in this rapidly evolving field.
+
+# [NEW AI Jailbreak Method SHATTERS GPT4, Claude, Gemini, LLaMA](https://www.youtube.com/watch?v=5cEvNO9rZgI&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=14&ab_channel=MatthewBerman)
+
+A new AI jailbreak technique uses ASCII art to fool advanced models like GPT-4 and Claude into bypassing content filters. Watch the video to discover how this technique works, how the creator tests it live, and the breakthrough using Morse code that shatters even the most secure language models. Unveil the power and risks of model jailbreaking!
