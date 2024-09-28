@@ -8,7 +8,7 @@
 
 Supercharge your AI projects with these hidden gems on Hugging Face! Learn how to use tools like ZeroGPU, Gradio API, and Nomic Atlas to build efficient and innovative applications. From cost-effective GPUs to semantic search, discover how to unlock the full potential of the Hugging Face Hub with this step-by-step guide.
 
-# Model Merging, Quantization, training, finetuning & more
+# Model Merging & Quantization
 
 ## [Merge Large Language Models with mergekit, by Maxime Labonne](https://huggingface.co/blog/mlabonne/merge-models)
 
