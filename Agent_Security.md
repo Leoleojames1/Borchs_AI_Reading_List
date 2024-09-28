@@ -1,9 +1,5 @@
 # [🤯 AI Security EXPOSED! Hidden Risks of AI Agents – Shai Alon, Orca Security // TechSpot](https://www.youtube.com/watch?v=jT6sTw8Cr7U&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=105&ab_channel=OnTheSpotDevelopment)
 
-[![Test](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=jT6sTw8Cr7U&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=105&ab_channel=OnTheSpotDevelopment)
-
-
-
 In this insightful presentation, Shai Alon from Orca Security explores the emerging security challenges posed by AI applications and agents. Key highlights include:
 
 Rapid AI adoption across industries, transforming products and services.
