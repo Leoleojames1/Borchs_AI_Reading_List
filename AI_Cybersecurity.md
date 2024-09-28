@@ -26,4 +26,8 @@ A new AI jailbreak technique uses ASCII art to fool advanced models like GPT-4 a
 
 A new vulnerability "Probllama" has put AI servers at risk, allowing attackers to execute remote code in exposed Ollama instances. Learn how this flaw, targeting AI infrastructure, was quickly patched—but exposed over 1,000 servers to critical risks. Dive into the world of AI security to understand how classic vulnerabilities threaten modern AI platforms.
 
-#
+## [NEW Universal AI Jailbreak SMASHES GPT4, Claude, Gemini, LLaMA ](https://www.youtube.com/watch?v=9IM5d-egZ7M&t=584s)
+
+## [Purple Llama](https://github.com/meta-llama/PurpleLlama/tree/main)
+
+Purple Llama is an umbrella project that over time will bring together tools and evals to help the community build responsibly with open generative AI models. The initial release will include tools and evals for Cyber Security and Input/Output safeguards but we plan to contribute more in the near future.
