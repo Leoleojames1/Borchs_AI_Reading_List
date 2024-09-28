@@ -19,17 +19,16 @@ Unlock ultra-fast, dedicated AI with specialized pre-training! Learn how tiny mo
 
 Supercharge your AI projects with these hidden gems on Hugging Face! Learn how to use tools like ZeroGPU, Gradio API, and Nomic Atlas to build efficient and innovative applications. From cost-effective GPUs to semantic search, discover how to unlock the full potential of the Hugging Face Hub with this step-by-step guide.
 
-[Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization)
+## [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization)
 
-[Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
+## [Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
 
-[Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml)
+## [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml)
 
-[Docmatix - A huge dataset for document Visual Question Answering](https://huggingface.co/blog/docmatix)
+## [Docmatix - A huge dataset for document Visual Question Answering](https://huggingface.co/blog/docmatix)
 
-[TGI Multi-LoRA: Deploy Once, Serve 30 models](https://huggingface.co/blog/multi-lora-serving)
+## [TGI Multi-LoRA: Deploy Once, Serve 30 models](https://huggingface.co/blog/multi-lora-serving)
 
+## [zero-shot-vqa-docmatix](https://huggingface.co/blog/zero-shot-vqa-docmatix)
 
-https://huggingface.co/blog/llama32
-
-[zero-shot-vqa-docmatix](https://huggingface.co/blog/zero-shot-vqa-docmatix)
+## [Llama can now see and run on your device - welcome Llama 3.2](https://huggingface.co/blog/llama32)
