@@ -32,6 +32,8 @@ A new AI jailbreak technique uses ASCII art to fool advanced models like GPT-4 a
 
 ## [NEW Universal AI Jailbreak SMASHES GPT4, Claude, Gemini, LLaMA ](https://www.youtube.com/watch?v=9IM5d-egZ7M&t=584s)
 
+## [LLaMA 3 UNCENSORED 🥸 It Answers ANY Question](https://www.youtube.com/watch?v=wl9iLKkJXNA&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=72)
+
 ## [Llama 405b BEAST already exploited | Here’s how](https://www.youtube.com/watch?v=zEzWWUddn34&ab_channel=AlexZiskind)
 
 ## [Injecting AI (LLM): The Terminal - Episode 1](https://www.youtube.com/watch?v=ju8hdBaNDpI)
@@ -39,3 +41,13 @@ A new AI jailbreak technique uses ASCII art to fool advanced models like GPT-4 a
 ## [Learn AI Engineer Skills: Autonomous Agentic Behavior (Llama 3 8B Ollama)](https://www.youtube.com/watch?v=pCe0xWrtChY&ab_channel=AllAboutAI)
 
 ## [How Good is Your Prompt Engineering? LLM Hacker Challenge With Bounty Reward](https://www.youtube.com/watch?v=oe2PhEyERzc&ab_channel=AllAboutAI)
+
+## [The Abliterator](https://github.com/FailSpy/abliterator)
+
+## [EMERGENCY EPISODE: Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat | E252](https://www.youtube.com/watch?v=bk-nQ7HF6k4)
+
+## [The End of Encryption with Michio Kaku and Neil deGrasse Tyson](https://www.youtube.com/watch?v=K-32lA78GWI&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=10)
+
+## [The Internet Goes EXTINCT as Gen AI Takes Over | The Dark Forest Internet & Proving Your "Humanness"](https://www.youtube.com/watch?v=3NN5L-f0cDo&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=37)
+
+
