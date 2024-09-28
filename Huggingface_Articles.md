@@ -32,3 +32,6 @@ Supercharge your AI projects with these hidden gems on Hugging Face! Learn how t
 ## [zero-shot-vqa-docmatix](https://huggingface.co/blog/zero-shot-vqa-docmatix)
 
 ## [Llama can now see and run on your device - welcome Llama 3.2](https://huggingface.co/blog/llama32)
+
+## [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft)
+
