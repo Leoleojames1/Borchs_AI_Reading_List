@@ -30,7 +30,7 @@ Unlock ultra-fast, dedicated AI with specialized pre-training! Learn how tiny mo
 
 ## [TGI Multi-LoRA: Deploy Once, Serve 30 models](https://huggingface.co/blog/multi-lora-serving)
 
-# Model Deployment, Agents, Chabots, and tutorials
+# Model Deployment, Agents, Chatbots, and guides
 
 ## [Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
 
