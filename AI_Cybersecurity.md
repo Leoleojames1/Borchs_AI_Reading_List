@@ -50,3 +50,4 @@ A new AI jailbreak technique uses ASCII art to fool advanced models like GPT-4 a
 
 ## [The Internet Goes EXTINCT as Gen AI Takes Over | The Dark Forest Internet & Proving Your "Humanness"](https://www.youtube.com/watch?v=3NN5L-f0cDo&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=37)
 
+## [Mission Impossible: A Statistical Perspective on Jailbreaking LLMs](https://arxiv.org/abs/2408.01420)
