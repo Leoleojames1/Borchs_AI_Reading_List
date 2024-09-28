@@ -29,4 +29,7 @@ Supercharge your AI projects with these hidden gems on Hugging Face! Learn how t
 
 [TGI Multi-LoRA: Deploy Once, Serve 30 models](https://huggingface.co/blog/multi-lora-serving)
 
+
+https://huggingface.co/blog/llama32
+
 [zero-shot-vqa-docmatix](https://huggingface.co/blog/zero-shot-vqa-docmatix)
