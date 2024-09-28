@@ -22,6 +22,8 @@ This article focuses on giving a high-level overview of this quantization techno
 
 ## [Fine-tune Llama 3.1 Ultra-Efficiently with Unsloth, by Maxime Labonne](https://huggingface.co/blog/mlabonne/sft-llama3)
 
+"In this article, we will provide a comprehensive overview of supervised fine-tuning. We will compare it to prompt engineering to understand when it makes sense to use it, detail the main techniques with their pros and cons, and introduce major concepts, such as LoRA hyperparameters, storage formats, and chat templates. Finally, we will implement it in practice by fine-tuning Llama 3.1 8B in Google Colab with state-of-the-art optimization using Unsloth." - Maxime Labonne
+
 ## [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft)
 
 Fine-tuning these pretrained LLMs on downstream datasets results in huge performance gains when compared to using the pretrained LLMs out-of-the-box (zero-shot inference, for example).
