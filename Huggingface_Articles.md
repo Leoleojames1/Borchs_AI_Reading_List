@@ -1,9 +1,7 @@
-# Borchs_ai_reading_list
+# Hugging Face Articles
+## [The Rise of Agentic Data Genation, by Maxime Labonne](https://huggingface.co/blog/mlabonne/agentic-datagen)
 
-
-## Hugging Face Articles
-
-[The Rise of Agentic Data Genation, by Maxime Labonne](https://huggingface.co/blog/mlabonne/agentic-datagen)
+Explore how innovative frameworks like AgentInstruct and Arena Learning are transforming the creation of high-quality instruction datasets for LLMs. This article delves into these cutting-edge methods, their unique approaches, and the potential of combining them to advance AI training.
 
 [Merge Large Language Models with mergekit, by Maxime Labonne](https://huggingface.co/blog/mlabonne/merge-models)
 
