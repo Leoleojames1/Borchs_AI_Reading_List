@@ -33,3 +33,9 @@ A new AI jailbreak technique uses ASCII art to fool advanced models like GPT-4 a
 ## [NEW Universal AI Jailbreak SMASHES GPT4, Claude, Gemini, LLaMA ](https://www.youtube.com/watch?v=9IM5d-egZ7M&t=584s)
 
 ## [Llama 405b BEAST already exploited | Here’s how](https://www.youtube.com/watch?v=zEzWWUddn34&ab_channel=AlexZiskind)
+
+## [Injecting AI (LLM): The Terminal - Episode 1](https://www.youtube.com/watch?v=ju8hdBaNDpI)
+
+## [Learn AI Engineer Skills: Autonomous Agentic Behavior (Llama 3 8B Ollama)](https://www.youtube.com/watch?v=pCe0xWrtChY&ab_channel=AllAboutAI)
+
+## [How Good is Your Prompt Engineering? LLM Hacker Challenge With Bounty Reward](https://www.youtube.com/watch?v=oe2PhEyERzc&ab_channel=AllAboutAI)
