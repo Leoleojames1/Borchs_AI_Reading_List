@@ -17,6 +17,8 @@ Unlock ultra-fast, dedicated AI with specialized pre-training! Learn how tiny mo
 
 [The 5 Most Under-Rated Tools on Hugging Face](https://huggingface.co/blog/unsung-heroes)
 
+Supercharge your AI projects with these hidden gems on Hugging Face! Learn how to use tools like ZeroGPU, Gradio API, and Nomic Atlas to build efficient and innovative applications. From cost-effective GPUs to semantic search, discover how to unlock the full potential of the Hugging Face Hub with this step-by-step guide.
+
 [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization)
 
 [Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
