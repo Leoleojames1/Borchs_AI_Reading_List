@@ -30,3 +30,7 @@ The presentation concludes by highlighting that the cybersecurity industry is st
 # [NEW AI Jailbreak Method SHATTERS GPT4, Claude, Gemini, LLaMA](https://www.youtube.com/watch?v=5cEvNO9rZgI&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=14&ab_channel=MatthewBerman)
 
 A new AI jailbreak technique uses ASCII art to fool advanced models like GPT-4 and Claude into bypassing content filters. Watch the video to discover how this technique works, how the creator tests it live, and the breakthrough using Morse code that shatters even the most secure language models. Unveil the power and risks of model jailbreaking!
+
+# [Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool](https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html)
+
+A new vulnerability "Probllama" has put AI servers at risk, allowing attackers to execute remote code in exposed Ollama instances. Learn how this flaw, targeting AI infrastructure, was quickly patched—but exposed over 1,000 servers to critical risks. Dive into the world of AI security to understand how classic vulnerabilities threaten modern AI platforms.
