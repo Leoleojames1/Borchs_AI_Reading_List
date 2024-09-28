@@ -38,3 +38,7 @@ Supercharge your AI projects with these hidden gems on Hugging Face! Learn how t
 ## [AI Apps in a Flash with Gradio's Reload Mode](https://huggingface.co/blog/gradio-reload)
 
 ## [Total noob’s intro to Hugging Face Transformers](https://huggingface.co/blog/noob_intro_transformers)
+
+## [Cosmopedia: how to create large-scale synthetic data for pre-training](https://huggingface.co/blog/cosmopedia)
+
+## [Synthetic dataset generation techniques: generating custom sentence similarity data](https://huggingface.co/blog/davanstrien/synthetic-similarity-datasets)
