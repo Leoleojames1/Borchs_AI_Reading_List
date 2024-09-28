@@ -42,6 +42,8 @@ BitNet is an architecture introduced by Microsoft Research that uses extreme qua
 
 ## [TGI Multi-LoRA: Deploy Once, Serve 30 models](https://huggingface.co/blog/multi-lora-serving)
 
+Are you tired of the complexity and expense of managing multiple AI models? What if you could deploy once and serve 30 models? In today's ML world, organizations looking to leverage the value of their data will likely end up in a fine-tuned world, building a multitude of models, each one highly specialized for a specific task. But how can you keep up with the hassle and cost of deploying a model for each use case? The answer is Multi-LoRA serving.
+
 # Synthetic/Augmented datasets
 
 The following resources will provide a good foundational understanding of synthetic dataset generation, as well as llm driven dataset augmentation.
