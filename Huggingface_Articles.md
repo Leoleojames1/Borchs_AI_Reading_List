@@ -7,7 +7,9 @@ Explore how innovative frameworks like AgentInstruct and Arena Learning are tran
 
 Unlock the power of large language model merging without GPUs! Discover how to use "mergekit" to combine the best models with ease, explore advanced merging techniques like SLERP and TIES, and learn to create state-of-the-art models that dominate leaderboards—all from your laptop. Dive in to revolutionize your AI capabilities today!
 
-[Uncensor any LLM with abliteration, by Maxime Labonne](https://huggingface.co/blog/mlabonne/abliteration)
+## [Uncensor any LLM with abliteration, by Maxime Labonne](https://huggingface.co/blog/mlabonne/abliteration)
+
+Discover how to bypass built-in censorship in large language models using "abliteration"! Learn how to unleash the full potential of your LLMs by identifying and removing refusal mechanisms, all without costly retraining. Dive into this step-by-step guide to creating your own uncensored and high-performing AI model—perfect for those looking to unlock unrestricted AI interactions.
 
 [The case for specialized pre-training: ultra-fast foundation models for dedicated tasks](https://huggingface.co/blog/Pclanglais/specialized-pre-training)
 
