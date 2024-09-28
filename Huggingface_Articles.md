@@ -20,6 +20,8 @@ This article focuses on giving a high-level overview of this quantization techno
 
 # Training & Finetuning
 
+## [Fine-tune Llama 3.1 Ultra-Efficiently with Unsloth, by Maxime Labonne](https://huggingface.co/blog/mlabonne/sft-llama3)
+
 ## [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft)
 
 Fine-tuning these pretrained LLMs on downstream datasets results in huge performance gains when compared to using the pretrained LLMs out-of-the-box (zero-shot inference, for example).
@@ -35,14 +37,6 @@ Unlock ultra-fast, dedicated AI with specialized pre-training! Learn how tiny mo
 ## [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization)
 
 ## [TGI Multi-LoRA: Deploy Once, Serve 30 models](https://huggingface.co/blog/multi-lora-serving)
-
-# Model Deployment, Agents, Chatbots, and guides
-
-## [Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
-
-## [AI Apps in a Flash with Gradio's Reload Mode](https://huggingface.co/blog/gradio-reload)
-
-## [Llama can now see and run on your device - welcome Llama 3.2](https://huggingface.co/blog/llama32)
 
 # Synthetic/Augmented datasets
 
@@ -74,4 +68,12 @@ In this article, we'll show you how to leverage distilabel and fine-tune a domai
 ## [Docmatix - A huge dataset for document Visual Question Answering](https://huggingface.co/blog/docmatix)
 
 ## [zero-shot-vqa-docmatix](https://huggingface.co/blog/zero-shot-vqa-docmatix)
+
+# Model Deployment, Agents, Chatbots, and guides
+
+## [Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
+
+## [AI Apps in a Flash with Gradio's Reload Mode](https://huggingface.co/blog/gradio-reload)
+
+## [Llama can now see and run on your device - welcome Llama 3.2](https://huggingface.co/blog/llama32)
 
