@@ -25,51 +25,17 @@ Let's embark on this journey into the heart of modern AI development with Huggin
 
 Our goal is to demystify what Hugging Face Transformers is and how it works, not to turn you into a machine learning practitioner, but to enable better understanding of and collaboration with those who are.
 
-## [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml)
-
-ggml is a machine learning (ML) library written in C and C++ with a focus on Transformer inference. The project is open-source and is being actively developed by a growing community. ggml is similar to ML libraries such as PyTorch and TensorFlow, though it is still in its early stages of development and some of its fundamentals are still changing rapidly.
-
 ## [The 5 Most Under-Rated Tools on Hugging Face](https://huggingface.co/blog/unsung-heroes)
 
 Supercharge your AI projects with these hidden gems on Hugging Face! Learn how to use tools like ZeroGPU, Gradio API, and Nomic Atlas to build efficient and innovative applications. From cost-effective GPUs to semantic search, discover how to unlock the full potential of the Hugging Face Hub with this step-by-step guide.
 
-# Advanced Model Optimization Techniques: Merging, Quantization, Training, and Fine-tuning
-
-Welcome to the cutting edge of AI model optimization! This chapter delves into advanced techniques that push the boundaries of what's possible with large language models (LLMs). Whether you're looking to combine models, reduce their size, or fine-tune them for specific tasks, you'll find valuable insights and practical approaches here.
-
-## What You'll Discover
-
-### Model Merging and Quantization
+# Model Merging
 
 1. **Merging Large Language Models**: Learn how to use "mergekit" to combine the best features of multiple models, even without access to high-end GPUs. You'll explore advanced techniques like SLERP and TIES, enabling you to create state-of-the-art models that can compete with the best in the field.
-
-2. **8-bit Matrix Multiplication**: Dive into the world of model quantization with an introduction to 8-bit matrix multiplication. Understand how this technology is being integrated into the Hugging Face Transformers library and its potential for scaling AI models efficiently.
-
-### Training and Fine-tuning
-
-3. **Ultra-Efficient Fine-tuning**: Explore the latest in supervised fine-tuning techniques, with a focus on the Llama 3.1 model. You'll learn about LoRA hyperparameters, storage formats, and chat templates, and see how to implement these techniques using cutting-edge tools like Unsloth.
-
-4. **Parameter-Efficient Fine-Tuning (PEFT)**: Discover how to achieve significant performance gains by fine-tuning pretrained LLMs on downstream datasets, even with limited computational resources.
-
-5. **Uncensoring LLMs**: Learn about "abliteration," a technique for bypassing built-in censorship in language models without extensive retraining.
-
-6. **Specialized Pre-training**: Understand the power of creating ultra-fast, task-specific models through specialized pre-training, and how this approach can lead to more efficient AI development.
-
-7. **Extreme Quantization**: Explore BitNet, an innovative architecture that pushes quantization to its limits, representing each parameter with just three values and dramatically reducing computational requirements.
-
-8. **Multi-Model Deployment**: Learn about Multi-LoRA serving, a game-changing approach that allows you to deploy once and serve multiple specialized models, addressing the challenges of managing a diverse model ecosystem.
-
-By the end of this chapter, you'll have a comprehensive understanding of the latest techniques in model optimization, from merging and quantization to specialized training and efficient deployment. These skills will empower you to create more powerful, efficient, and versatile AI models, whether you're working on a laptop or with enterprise-scale resources.
-
-Get ready to take your AI development skills to the next level and unlock the full potential of large language models!
 
 ## [Merge Large Language Models with mergekit, by Maxime Labonne](https://huggingface.co/blog/mlabonne/merge-models)
 
 Unlock the power of large language model merging without GPUs! Discover how to use "mergekit" to combine the best models with ease, explore advanced merging techniques like SLERP and TIES, and learn to create state-of-the-art models that dominate leaderboards—all from your laptop. Dive in to revolutionize your AI capabilities today!
-
-## [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
-
-This article focuses on giving a high-level overview of this quantization technology, outlining the difficulties in incorporating it into the transformers library, and drawing up the long-term goals of this partnership.
 
 # Training & Finetuning
 
@@ -88,10 +54,6 @@ Discover how to bypass built-in censorship in large language models using "ablit
 ## [The case for specialized pre-training: ultra-fast foundation models for dedicated tasks](https://huggingface.co/blog/Pclanglais/specialized-pre-training)
 
 Unlock ultra-fast, dedicated AI with specialized pre-training! Learn how tiny models like OCRonos-Vintage are outshining larger, general-purpose models by focusing on specific tasks. From blazing-fast inference to full control over training data, discover how pre-training for specialized applications can transform performance, save costs, and lead the next wave of efficient AI development.
-
-## [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](https://huggingface.co/blog/1_58_llm_extreme_quantization)
-
-BitNet is an architecture introduced by Microsoft Research that uses extreme quantization, representing each parameter with only three values: -1, 0, and 1. This results in a model that uses just 1.58 bits per parameter, significantly reducing computational and memory requirements.
 
 ## [TGI Multi-LoRA: Deploy Once, Serve 30 models](https://huggingface.co/blog/multi-lora-serving)
 
@@ -184,12 +146,6 @@ With this blog we are releasing Docmatix - a huge dataset for Document Visual Qu
 ## [zero-shot-vqa-docmatix](https://huggingface.co/blog/zero-shot-vqa-docmatix)
 
 While developing Docmatix, we noticed that fine-tuning Florence-2 on it yielded great performance on DocVQA, but resulted in low scores on the benchmark. To enhance performance, we had to fine-tune the model further on DocVQA to learn the syntax required for the benchmark. Interestingly, this additional fine-tuning seemed to perform worse according to human evaluators, which is why we primarily used it for ablation studies and released the model only trained on Docmatix for broader use.
-
-# Model Deployment, Agents, Chatbots, and guides
-
-## [Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
-
-There is now a unified tool use API across several popular families of models. This API means the same code is portable - few or no model-specific changes are needed to use tools in chats with Mistral, Cohere, NousResearch or Llama models. In addition, Transformers now includes helper functionality to make tool calling even easier, as well as complete documentation and examples for the entire tool use process. Support for even more models will be added in the near future.
 
 ## [AI Apps in a Flash with Gradio's Reload Mode](https://huggingface.co/blog/gradio-reload)
 
