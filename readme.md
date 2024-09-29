@@ -31,10 +31,9 @@ Supercharge your AI projects with these hidden gems on Hugging Face! Learn how t
 
 # Model Merging
 
-1. **Merging Large Language Models**: Learn how to use "mergekit" to combine the best features of multiple models, even without access to high-end GPUs. You'll explore advanced techniques like SLERP and TIES, enabling you to create state-of-the-art models that can compete with the best in the field.
-
 ## [Merge Large Language Models with mergekit, by Maxime Labonne](https://huggingface.co/blog/mlabonne/merge-models)
 
+1. **Merging Large Language Models**: Learn how to use "mergekit" to combine the best features of multiple models, even without access to high-end GPUs. You'll explore advanced techniques like SLERP and TIES, enabling you to create state-of-the-art models that can compete with the best in the field.
 Unlock the power of large language model merging without GPUs! Discover how to use "mergekit" to combine the best models with ease, explore advanced merging techniques like SLERP and TIES, and learn to create state-of-the-art models that dominate leaderboards—all from your laptop. Dive in to revolutionize your AI capabilities today!
 
 # Training & Finetuning
