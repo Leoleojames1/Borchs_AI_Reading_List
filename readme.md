@@ -75,6 +75,8 @@ The end goal is creating a dataset that can be used to improve OSS models, using
 
 ## [⚗️ 🔥 Building High-Quality Datasets with distilabel and Prometheus 2](https://huggingface.co/blog/burtenshaw/distilabel-prometheus-2)
 
+How to build high-quality datasets for fine-tuning large language models (LLMs) using distilabel and Prometheus 2. Prometheus 2 is an open-source model designed for evaluating LLM generations, providing a cost-effective alternative to GPT-4. This powerful combination allows us to distil both Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) datasets efficiently and transparently.
+
 ## [How we leveraged distilabel to create an Argilla 2.0 Chatbot](https://huggingface.co/blog/argilla-chatbot)
 
 Discover how to build a Chatbot for a tool of your choice (Argilla 2.0 in this case) that can understand technical documentation and chat with users about it.
