@@ -1,3 +1,10 @@
+
+# Borch's AI Reading List
+
+<img
+src="docs/posters/llama_apple_tree.png"
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
+
 # Getting Started with Hugging Face
 
 ## [Total noob’s intro to Hugging Face Transformers](https://huggingface.co/blog/noob_intro_transformers)
