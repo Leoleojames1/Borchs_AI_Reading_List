@@ -9,6 +9,8 @@ src="docs/posters/llama_apple_tree.png"
 
 ## [Total noob’s intro to Hugging Face Transformers](https://huggingface.co/blog/noob_intro_transformers)
 
+Our goal is to demystify what Hugging Face Transformers is and how it works, not to turn you into a machine learning practitioner, but to enable better understanding of and collaboration with those who are.
+
 ## [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml)
 
 ## [The 5 Most Under-Rated Tools on Hugging Face](https://huggingface.co/blog/unsung-heroes)
