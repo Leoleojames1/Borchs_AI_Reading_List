@@ -90,7 +90,7 @@ This section provides a comprehensive overview of synthetic dataset generation a
    Involves scraping source data from open-source databases (e.g., arXiv) and tasking an AI agent with constructing a ground truth dataset from the scraped data. This digested data can then be further augmented.
 
 6. **Synthetic Dataset Augmented Expansion**
-   The process of expanding existing ground truth data by factors of 10, 100, 1000, etc., through paraphrasing and providing instruction prompt examples. This ensures the AI is modulated by the provided data rather than relying on its own knowledge base.
+   The process of expanding existing ground truth data by factors of 10, 100, 1000, etc., through paraphrasing and providing instruction prompt examples. This ensures the AI is modulating the dataset with its knowledge of vocabulary rather than relying on its own knowledge base to ensure we retain the essence of the ground truth data.
 
 ## Importance of Synthetic/Augmented Datasets
 
