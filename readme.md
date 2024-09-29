@@ -96,6 +96,8 @@ With this blog we are releasing Docmatix - a huge dataset for Document Visual Qu
 
 ## [zero-shot-vqa-docmatix](https://huggingface.co/blog/zero-shot-vqa-docmatix)
 
+While developing Docmatix, we noticed that fine-tuning Florence-2 on it yielded great performance on DocVQA, but resulted in low scores on the benchmark. To enhance performance, we had to fine-tune the model further on DocVQA to learn the syntax required for the benchmark. Interestingly, this additional fine-tuning seemed to perform worse according to human evaluators, which is why we primarily used it for ablation studies and released the model only trained on Docmatix for broader use.
+
 # Model Deployment, Agents, Chatbots, and guides
 
 ## [Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
