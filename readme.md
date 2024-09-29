@@ -84,6 +84,8 @@ In this article, we'll show you how to leverage distilabel and fine-tune a domai
 
 ## [Cosmopedia: how to create large-scale synthetic data for pre-training](https://huggingface.co/blog/cosmopedia)
 
+The challenges and solutions involved in generating a synthetic dataset with billions of tokens to replicate Phi-1.5, leading to the creation of Cosmopedia. Synthetic data has become a central topic in Machine Learning. It refers to artificially generated data, for instance by large language models (LLMs), to mimic real-world data.
+
 ## [Synthetic dataset generation techniques: generating custom sentence similarity data](https://huggingface.co/blog/davanstrien/synthetic-similarity-datasets)
 
 ## [Docmatix - A huge dataset for document Visual Question Answering](https://huggingface.co/blog/docmatix)
