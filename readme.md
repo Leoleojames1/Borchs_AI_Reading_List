@@ -71,6 +71,8 @@ Explore how innovative frameworks like AgentInstruct and Arena Learning are tran
 
 ## [🦙⚗️ Using Llama3 and distilabel to build fine-tuning datasets](https://huggingface.co/blog/dvilasuero/synthetic-data-with-llama3-distilabel)
 
+The end goal is creating a dataset that can be used to improve OSS models, using alignment methods like DPO, ORPO, or KTO. Now that Llama3 is closing the perfomance gap, we're a step closer to our vision: fully open data generation pipelines!
+
 ## [⚗️ 🔥 Building High-Quality Datasets with distilabel and Prometheus 2](https://huggingface.co/blog/burtenshaw/distilabel-prometheus-2)
 
 ## [How we leveraged distilabel to create an Argilla 2.0 Chatbot](https://huggingface.co/blog/argilla-chatbot)
