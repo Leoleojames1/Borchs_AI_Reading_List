@@ -13,9 +13,7 @@ Welcome to the exciting world of Hugging Face! This chapter is designed to intro
 
 1. **Hugging Face Transformers Demystified**: We'll start with a beginner-friendly introduction to Hugging Face Transformers. This article aims to break down complex concepts into digestible pieces, helping you understand the core principles without getting lost in technical jargon. By the end, you'll have a solid grasp of what Transformers are and how they work, enabling you to collaborate more effectively with machine learning practitioners.
 
-2. **Introduction to ggml**: Next, we'll explore ggml, an emerging open-source machine learning library focused on Transformer inference. Written in C and C++, ggml offers a lightweight alternative to more established frameworks like PyTorch and TensorFlow. You'll learn about its capabilities, its ongoing development, and how it fits into the broader ML ecosystem.
-
-3. **Uncovering Hugging Face's Hidden Gems**: Finally, we'll dive into some of the most underrated tools on the Hugging Face platform. This guide will introduce you to powerful yet often overlooked resources like ZeroGPU, Gradio API, and Nomic Atlas. You'll discover how these tools can enhance your AI projects, from optimizing GPU usage to creating interactive demos and visualizing complex datasets.
+2. **Uncovering Hugging Face's Hidden Gems**: Finally, we'll dive into some of the most underrated tools on the Hugging Face platform. This guide will introduce you to powerful yet often overlooked resources like ZeroGPU, Gradio API, and Nomic Atlas. You'll discover how these tools can enhance your AI projects, from optimizing GPU usage to creating interactive demos and visualizing complex datasets.
 
 By the end of this chapter, you'll have a comprehensive understanding of the Hugging Face ecosystem and the confidence to start exploring its vast potential. Whether you're interested in building language models, creating AI-powered applications, or simply staying up-to-date with the latest in NLP technology, these articles will provide you with a solid foundation to build upon.
 
