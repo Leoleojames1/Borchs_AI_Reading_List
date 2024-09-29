@@ -88,7 +88,11 @@ The challenges and solutions involved in generating a synthetic dataset with bil
 
 ## [Synthetic dataset generation techniques: generating custom sentence similarity data](https://huggingface.co/blog/davanstrien/synthetic-similarity-datasets)
 
+One of the most exciting use cases for LLMs is generating synthetic datasets that can be used to train non-LLM models. In the past, gathering enough data was one of the most significant barriers to training task-specific models, such as text classification models. LLMs can potentially help in this area.
+
 ## [Docmatix - A huge dataset for document Visual Question Answering](https://huggingface.co/blog/docmatix)
+
+With this blog we are releasing Docmatix - a huge dataset for Document Visual Question Answering (DocVQA) that is 100s of times larger than previously available. Ablations using this dataset for fine-tuning Florence-2 show a 20% increase in performance on DocVQA.
 
 ## [zero-shot-vqa-docmatix](https://huggingface.co/blog/zero-shot-vqa-docmatix)
 
