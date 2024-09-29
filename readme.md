@@ -80,7 +80,7 @@ How to build high-quality datasets for fine-tuning large language models (LLMs) 
 ## [How we leveraged distilabel to create an Argilla 2.0 Chatbot](https://huggingface.co/blog/argilla-chatbot)
 
 Discover how to build a Chatbot for a tool of your choice (Argilla 2.0 in this case) that can understand technical documentation and chat with users about it.
-In this article, we'll show you how to leverage distilabel and fine-tune a domain-specific embedding model to create a conversational model that's both accurate and engaging.
+In this article, they'll show you how to leverage distilabel and fine-tune a domain-specific embedding model to create a conversational model that's both accurate and engaging.
 
 ## [Cosmopedia: how to create large-scale synthetic data for pre-training](https://huggingface.co/blog/cosmopedia)
 
@@ -102,7 +102,12 @@ While developing Docmatix, we noticed that fine-tuning Florence-2 on it yielded 
 
 ## [Tool Use, Unified](https://huggingface.co/blog/unified-tool-use)
 
+There is now a unified tool use API across several popular families of models. This API means the same code is portable - few or no model-specific changes are needed to use tools in chats with Mistral, Cohere, NousResearch or Llama models. In addition, Transformers now includes helper functionality to make tool calling even easier, as well as complete documentation and examples for the entire tool use process. Support for even more models will be added in the near future.
+
 ## [AI Apps in a Flash with Gradio's Reload Mode](https://huggingface.co/blog/gradio-reload)
+
+How you can build a functional AI application quickly with Gradio's reload mode.
 
 ## [Llama can now see and run on your device - welcome Llama 3.2](https://huggingface.co/blog/llama32)
 
+Llama 3.2 is out! Today, we welcome the next iteration of the Llama collection to Hugging Face. This time, we’re excited to collaborate with Meta on the release of multimodal and small models. Ten open-weight models (5 multimodal models and 5 text-only ones) are available on the Hub.
