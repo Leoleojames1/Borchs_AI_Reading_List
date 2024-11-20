@@ -145,6 +145,9 @@ With this blog we are releasing Docmatix - a huge dataset for Document Visual Qu
 
 While developing Docmatix, we noticed that fine-tuning Florence-2 on it yielded great performance on DocVQA, but resulted in low scores on the benchmark. To enhance performance, we had to fine-tune the model further on DocVQA to learn the syntax required for the benchmark. Interestingly, this additional fine-tuning seemed to perform worse according to human evaluators, which is why we primarily used it for ablation studies and released the model only trained on Docmatix for broader use.
 
+## [IBM Chain of Thought, Instruction Tuning & More](https://www.ibm.com/topics/instruction-tuning)
+
+
 ## [AI Apps in a Flash with Gradio's Reload Mode](https://huggingface.co/blog/gradio-reload)
 
 How you can build a functional AI application quickly with Gradio's reload mode.
