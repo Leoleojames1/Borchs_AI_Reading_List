@@ -1,5 +1,5 @@
 
-# Borch's AI Reading List
+# AI Reading List
 
 <img
 src="docs/posters/llama_apple_tree.png"
